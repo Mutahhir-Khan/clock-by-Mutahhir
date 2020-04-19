@@ -8,8 +8,9 @@ var time1 = document.querySelector('.current-time')
 var setSeconds =() =>{
     var time2 = new Date().getHours()
     var time3 = new Date().getMinutes()
+    var time4 = new Date().getSeconds()
     time1.textContent = '';
-    time1.textContent = `${time2}:${time3}`
+    time1.textContent = `${time2}:${time3}:${time4}`
     time1.style.fontSize = `4rem`
     time1.style.borderBottom = `1px dashed black`
 
