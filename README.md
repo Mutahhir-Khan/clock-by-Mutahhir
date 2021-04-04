@@ -1,2 +1,2 @@
 # clock by Mutahhir
- https://mutahhir-khan.github.io/clock-by-Mutahhir/
+ https://mutahhirkhan.github.io/clock-by-Mutahhir/
